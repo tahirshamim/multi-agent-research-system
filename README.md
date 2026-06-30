@@ -1,5 +1,7 @@
 # ResearchMind — Multi-Agent Research Pipeline
 
+🚀 **Live Demo:** https://multi-agent-research-systems.streamlit.app/
+
 An AI-powered research system where four specialized agents collaborate to search the web, scrape content, write a structured report, and critically review it — all from a single topic input.
 
 Built with LangChain, Mistral AI, Tavily Search, and Streamlit.
