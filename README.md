@@ -110,5 +110,5 @@ TAVILY_API_KEY = "your-tavily-key-here"
 ## Author
 
 **Tahir Shamim**  
-CS Student @ Bahria University Karachi  
+CS Student @ NED University Karachi  
 [github.com/tahirshamim](https://github.com/tahirshamim)
